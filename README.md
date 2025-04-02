@@ -30,5 +30,5 @@ A community platform connecting Muslims locally and globally for events, knowled
 ## Team Members
 
 - Ertan Curri
-- Jetmir [Last Name]
-- Kastriot [Last Name]
+- Jetmir Alilov
+- Kastriot Sejdiji
